@@ -24,6 +24,8 @@ website/node_modules
 *.test
 *.iml
 
+plano
+PRIMEIRO-PLAN
 website/vendor
 
 # Test exclusions
